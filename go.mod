@@ -1,3 +1,3 @@
-module github.com/mightrl/emoji/v2
+module github.com/mightrl/emoji
 
 go 1.16
