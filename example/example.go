@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/kyokomi/emoji/v2"
+	"github.com/mightrl/emoji"
 )
 
 func main() {
